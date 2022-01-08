@@ -1,2 +1,2 @@
 # employeemanager
-App to manage employees
+to improve frontend part , i will give you simple CRUD backend REST API
